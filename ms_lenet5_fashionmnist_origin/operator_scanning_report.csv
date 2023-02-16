@@ -1,0 +1,9 @@
+operator_name, count, status
+onnx::Transpose, 2, Supported
+onnx::Conv, 2, Supported
+onnx::Relu, 4, Supported
+onnx::MaxPool, 2, Supported
+onnx::Flatten, 1, Supported
+onnx::MatMul, 3, Supported
+onnx::Add, 3, Supported
+onnx::Softmax, 1, Supported
